@@ -1,0 +1,7 @@
+Goals: 
+Tell me how much to pay towards debts and savings
+Tell me how much "fun money" I have to spend
+Tell me what bills need to be paid with the current paycheck
+    - Should be able to tell the current date
+    - Should be able to figure out my current pay period
+Should let me input my paycheck amount and then do the work for me. 
