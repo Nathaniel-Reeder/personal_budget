@@ -1,0 +1,67 @@
+{
+    "rent": {
+        "name": "Rent",
+        "dueDate": "01",
+        "amount": 815.92
+    },
+    "rentersInsurance": {
+        "name": "Renter's Insurance",
+        "dueDate": "01",
+        "amount": 8.59
+    },
+    "gas": {
+        "name": "Estimated Gas Bill",
+        "dueDate": "04", 
+        "amount": 75.00
+    },
+    "carInsurance": {
+        "name": "Car Insurance",
+        "dueDate": "01",
+        "amount": 179.71
+    },
+    "theForge": {
+        "name": "Foundry Server Hosting",
+        "dueDate": "03",
+        "amount": 9.76
+    },
+    "phone": {
+        "name": "Phone bill",
+        "dueDate": "05",
+        "amount": 35.00
+    },
+    "wowSub": {
+        "name": "WoW Subscription",
+        "dueDate": "05",
+        "amount": 16.09
+    },
+    "carPayment": {
+        "name": "Car Loan Payment",
+        "dueDate": "07",
+        "amount": 195.72
+    },
+    "gym": {
+        "name": "Gym Membership",
+        "dueDate": "12",
+        "amount": 26.85
+    },
+    "inkarnate": {
+        "name": "Inkarnate Subscription",
+        "dueDate": "18",
+        "amount": 5.37
+    },
+    "hulu": {
+        "name": "Hulu Subscription",
+        "dueDate": "18",
+        "amount": 20.31
+    },
+    "personalTraining": {
+        "name": "Personal Trainer",
+        "dueDate": "Wednesday 2",
+        "amount": 120.00
+    },
+    "otherApartmentBills": {
+        "name": "Other Apartment Bills",
+        "dueDate": "01",
+        "amount": 180.00
+    }
+}

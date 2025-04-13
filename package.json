@@ -1,7 +1,9 @@
 {
+  "type": "module",
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^5.1.0",
+    "fs": "^0.0.1-security",
     "luxon": "^3.6.1"
   }
 }
